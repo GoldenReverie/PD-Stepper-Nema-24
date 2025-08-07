@@ -1,6 +1,6 @@
 # **PD Stepper** - USB PD Closed Loop Stepper Driver & Controller
 PD Stepper is a USB PD Powered Nema 17 stepper driver using the Silent Trinamic Driver TMC2209 controlled with a ESP32-S3 for IoT and other applications.
-(This is a WIP attempt to migrate Josh's work over to a Nema 24 form factor for use in a CNC machine ect.)
+(This is a WIP attempt to migrate Josh's work over to a Nema 24 form factor for use in a CNC machines ect. This will be an upscaling project, migrating the board to the TMC5160 driver due to limitations of the 2209 for amperage.)
 
 Based on the work by Josh get his Nema 17 units here:
 ### Kits Available Now: [ThingsbyJosh.com](https://thingsbyjosh.com/products/pd-stepper) ###
